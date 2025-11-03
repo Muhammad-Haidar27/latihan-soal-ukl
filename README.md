@@ -18,6 +18,9 @@ Total ongkir = ongkir dasar + biaya tambahan (jika ada).
 
 Program menampilkan total biaya kirim.
 
+Contoh hasil
+![soal 1](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210440.png?raw=true)
+
 Soal 2 – Menentukan Bilangan Ganjil atau Genap
 
 Fungsi:
@@ -33,6 +36,9 @@ Jika hasilnya 0, maka bilangan genap. Jika tidak, bilangan ganjil.
 
 Hasil ditampilkan ke layar.
 
+Contoh hasil
+![soal 2](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210537.png?raw=true)
+
 Soal 3 – Menghitung Faktorial
 
 Fungsi:
@@ -47,6 +53,9 @@ Program menggunakan perulangan while untuk mengalikan angka dari 1 hingga bilang
 Setiap kali perulangan, hasil dikalikan dengan nilai variabel penghitung.
 
 Setelah selesai, hasil akhir ditampilkan sebagai nilai faktorial.
+
+Contoh hasil 
+![soal 3](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210558.png?raw=true)
 
 Soal 4 – Menghitung Volume Tabung
 
@@ -65,6 +74,9 @@ Rumus volume tabung = π × r² × t.
 
 Hasil perhitungan ditampilkan ke layar.
 
+Conoth hasil
+![soal 4](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210624.png?raw=true)
+
 Soal 5 – Menghitung Rata-Rata Nilai Siswa
 
 Fungsi:
@@ -81,6 +93,9 @@ Semua nilai dijumlahkan ke dalam variabel total.
 Setelah semua nilai dimasukkan, rata-rata dihitung dengan rumus total / jumlah siswa.
 
 Nilai rata-rata ditampilkan ke layar.
+
+Contoh hasil
+![soal 5](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210703.png?raw=true)
 
 Soal 6 – Penjumlahan Dua Matriks
 
@@ -101,3 +116,6 @@ hasil[i][j] = matriks1[i][j] + matriks2[i][j];
 
 
 Matriks hasil ditampilkan ke layar.
+
+Contoh hasil
+![soal 6](https://github.com/Muhammad-Haidar27/latihan-soal-ukl/blob/main/Screenshot%202025-11-03%20210808.png?raw=true)
